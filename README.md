@@ -115,8 +115,8 @@ Contributions are welcome! Here's how you can contribute:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-Project Link: [https://github.com/KushBhakkad/React-based-Chatbot](https://github.com/KushBhakkad/React-based-Chatbot)
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Project Link: [https://github.com/KushBhakkad/React-based-Chatbot](https://github.com/KushBhakkad/React-based-Chatbot)
 
 ## 🙏 Acknowledgements
 
