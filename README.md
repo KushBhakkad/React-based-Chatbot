@@ -1,4 +1,4 @@
-# 🤖 React-based-Chatbot
+# React-based-Chatbot
 
 A modern, responsive chatbot built with React.js and powered by Google's Gemini AI API.
 
